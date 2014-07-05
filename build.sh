@@ -8,3 +8,5 @@ go get labix.org/v2/mgo
 #build
 go install github.com/user/hello
 
+#test
+go test github.com/user/hello
